@@ -23,62 +23,48 @@
 ### UNIDAD 7
 #### AUTOEVALUACION
 #### 1. ¿Cuáles de los siguientes enunciados son verdaderos en relación con la figura 7-61?
-#### (a) R1 y R2 están en serie con R3, R4 y R5.
-#### (b) R1 y R2 están en serie.
-#### (c) R3, R4 y R5 están en paralelo.
-#### (d) La combinación en serie de R1 y R2 está en paralelo con la combinación en serie de R3, R4 y R5.
 #### (e) respuestas (b) y (d)
+#### Explicacion: R1 y R2 están en serie. La combinación en serie de R1 y R2 está en paralelo con la combinación en serie de R3, R4 y R5.
 #### 3. Si todos los resistores mostrados en la figura 7-61 tienen el mismo valor, cuando se aplica voltaje entre las terminales A y B la corriente es
-#### (a) máxima en R5
-#### (b) máxima en R3, R4 y R5
 #### (c) máxima en R1 y R2
-#### (d) la misma en todos los resistores
 #### 5. La combinación en paralelo de un resistor de 330 Æ y otro de 470 Æ está en serie con la combinación en paralelo de cuatro resistores de 1.0 kÆ. Se conecta una fuente de 100 V entre las terminales del circuito. El resistor con más corriente tiene un valor de
-#### (a) (b) (c)
+#### (b)
 #### 7. En el circuito de la pregunta 5, el porcentaje de la corriente total que pasa por cualquier resistor de 1.0kÆ es
-#### (a) 100% (b) 25% (c) 50% (d) 31.3%
+#### (b) 25% 
 #### 9. Cierto divisor de voltaje se compone de dos resistores de 10 kÆ en serie. ¿Cuál de los siguientes resistores de carga tendrá el máximo efecto en el voltaje de salida?
-#### (a) (b) (c) (d)
+#### (d)
 #### 11. En un circuito en escalera, la simplificación deberá comenzar en
-#### (a) la fuente (b) el resistor más alejado de la fuente
-#### (c) el centro (c) el resistor más cercano a la fuente
+#### (b) el resistor más alejado de la fuente
 #### 13. El voltaje de salida de un puente Wheatstone equilibrado es
-#### (a) igual al voltaje de fuente
 #### (b) igual a cero
-#### (c) depende de todos los valores de resistor presentes en el puente
-#### (d) depende del valor del resistor desconocido
 #### 15. Usted está midiendo el voltaje en un punto dado de un circuito cuyos valores de resistencia son muy altos y el voltaje medido es un poco más bajo de lo que debiera ser. Esto posiblemente es porque
-#### (a) uno o más de los valores de resistencia están deshabilitados
-#### (b) el efecto de carga del voltímetro
-#### (c) el voltaje de fuente es demasiado bajo
 #### (d) todas estas respuestas
+#### Explicacion: Uno o más de los valores de resistencia están deshabilitados, el efecto de carga del voltímetro y el voltaje de fuente es demasiado bajo.
 ### EXAMEN RAPIDO DE DINAMICA DE CIRCUITOS
 #### Consulte la figura 7-62(b).
 #### 1. Si R2 se abre, la corriente total
-#### (a) aumenta (b) disminuye (c) no cambia
+#### (b) disminuye
 #### 3. Si R4 se abre, el voltaje entre sus extremos
-#### (a) aumenta (b) disminuye (c) no cambia
+#### (a) aumenta 
 #### Consulte la figura 7-64.
 #### 5. Si R10 se abre, con 10 V aplicados entre las terminales A y B, la corriente total
-#### (a) aumenta (b) disminuye (c) no cambia
-#### 2473 Æ 25.9 kÆ 187 Æ 2890 Æ
-#### 20 kÆ 50 kÆ 100 kÆ 1.0 MÆ 20 kÆ 100 kÆ 10 kÆ
+#### (b) disminuye 
 #### 7. Si existe un corto entre el contacto izquierdo de R3 y el contacto inferior de R5, la resistencia total entre A y B
-#### (a) se incrementa (b) disminuye (c) no cambia
+#### (b) disminuye 
 #### Consulte la figura 7-68.
 #### 9. Si existe un corto del punto D a tierra, el voltaje de A a B
-#### (a) se incrementa (b) disminuye (c) no cambia
+#### (c) no cambia
 #### Consulte la figura 7-74.
 #### 11. Si se conecta un resistor de carga de 10 kÆ entre las terminales de salida A y B, el voltaje de salida
-#### (a) aumenta (b) disminuye (c) no cambia
+#### (b) disminuye
 #### Consulte la figura 7-75.
 #### 13. Si existe un corto entre las terminales V2 y V3 del interruptor, el voltaje V1 con respecto a tierra
-#### (a) se incrementa (b) disminuye (c) no cambia
+#### (b) disminuye
 #### 15. Si R4 se abre con el interruptor en la posición mostrada, el voltaje entre los extremos de RL
-#### (a) aumenta (b) disminuye (c) no cambia
+#### (a) aumenta 
 #### Consulte la figura 7-80.
 #### 17. Si R7 se pone en cortocircuito, VSALIDA
-#### (a) aumenta (b) disminuye (c) no cambia
+#### (a) aumenta 
 ### PROBLEMAS 
 #### SECCIÓN 7–1 Identificación de relaciones en serie-paralelo
 #### 1. Visualice y trace las siguientes combinaciones en serie-paralelo:
@@ -129,42 +115,36 @@
 ### UNIDAD 8
 #### AUTOEVALUACION 
 #### 1. Se conecta una carga de 100 Æ entre las terminales de una fuente de voltaje ideal con VS 5 10 V. El voltaje entre los extremos de la carga es de
-#### (a) 0 V (b) 10 V (c) 100 V
+#### (b) 10 V 
 #### 3. Cierta fuente de voltaje tiene los valores VS 5 25 V y RS 5 5 Æ. Los valores para una fuente de corriente equivalente son de
-#### (a) 5 A, (b) 25 A, (c) 5 A,
+#### (a) 5 A
 #### 5. En un circuito de dos fuentes, una fuente que actúa sola produce 10 mA a través de una rama dada. La otra fuente que actúa sola produce 8 mA en la dirección opuesta a través de la misma rama. La corriente real a través de la rama es de
-#### (a) 10 mA (b) 18 mA (c) 8 mA (d) 2 mA
+#### (d) 2 mA
 #### 7. El voltaje equivalente de Thevenin en un circuito dado se determina
-#### (a) poniendo en cortocircuito las terminales de salida
 #### (b) abriendo las terminales de salida
-#### (c) poniendo en cortocircuito la fuente de voltaje
-#### (d) eliminando la fuente de voltaje y reemplazándola con un cortocircuito
 #### 9. Una fuente transfiere potencia máxima a una carga cuando
-#### (a) la resistencia de la carga es muy grande
-#### (b) la resistencia de la carga es muy pequeña
-#### (c) la resistencia de la carga es dos veces la resistencia de la fuente
 #### (d) la resistencia de la carga es igual a la resistencia de la fuente
 #### EXAMEN RAPIDO DE DINAMICA DE CIRCUITOS
 #### Consulte la figura 8-69.
 #### 1. Si se desarrolla un cortocircuito entre los extremos de R4, el voltaje entre los extremos de R5
-#### (a) aumenta (b) disminuye (c) no cambia
+#### (a) aumenta 
 #### 3. Si R2 se abre, la corriente a través de R1
-#### (a) aumenta (b) disminuye (c) no cambia
+#### (b) disminuye 
 #### Consulte la figura 8-77.
 #### 5. Si cualquiera de los resistores de 5.6 kÆ se pone en cortocircuito, la corriente a través del resistor de carga
-#### (a) aumenta (b) disminuye (c) no cambia
+#### (b) disminuye
 #### Consulte la figura 8-79.
 #### 7. Si la entrada al amplificador se pone en cortocircuito con tierra, la corriente extraída de ambas fuentes de voltaje
-#### (a) aumenta (b) disminuye (c) no cambia
+#### (a) aumenta 
 #### Consulte la figura 8-82.
 #### 9. Si se conecta un resistor de carga de 10 MÆ desde A hasta B, el voltaje entre A y B
-#### (a) aumenta (b) disminuye (c) no cambia
+#### (b) disminuye
 #### Consulte la figura 8-84.
 #### 11. Si el resistor de 220 Æ se abre, VAB
-#### (a) aumenta (b) disminuye (c) no cambia
+#### (a) aumenta 
 #### Consulte la figura 8-85(d).
 #### 13. Si el resistor de 680 Æ se abre, la corriente a través de RL
-#### (a) aumenta (b) disminuye (c) no cambia
+#### (a) aumenta 
 #### PROBLEMAS
 #### SECCIÓN 8–3 Conversiones de fuente
 #### 1. Una fuente de voltaje tiene los valores VS 5 300 V y RS 5 50 Æ. Conviértala en una fuente de corriente equivalente.
@@ -193,6 +173,17 @@
 ### 4. VIDEO
 
 ### 5. CONCLUSIONES
+- Estudiamos que un circuito en serie-paralelo es una combinación de trayectorias tanto en serie como en paralelo.
+- Determinamos las corrientes y las caidas de voltaje de rama aplicando la fórmula del divisor de corriente, la ley de la corriente de Kirchhoff o ley de Ohm. 
+- Determinar la resistencia total de una red en escalera, iniciando en el punto más alejado de la fuente y reduzca la resistencia a pasos.
+- Utilizamos el puente Wheatstone equilibrado para medir una resistencia desconocida.
+- Estudiamos que las aberturas y los cortos son fallas típicas de un circuito eléctrico.
+- Estudiamos que una fuente de voltaje ideal tiene resistencia interna de cero. Proporciona un voltaje constante entre las terminales sin importar la resistencia de carga.
+- Estudiamos que una fuente de corriente ideal tiene resistencia interna infinita. Proporciona una corriente constante sin importar la resistencia de la carga.
+- Estudiamos que el teorema de superposición es útil para circuitos de fuentes múltiples.
+- Estudiamos que el teorema de Thevenin permite reducir cualquier circuito resistivo lineal de dos terminales a una forma equivalente compuesta por una fuente de voltaje equivalente en serie con una resistencia equivalente.
+- Estudiamos que el teorema de Norton permite reducir cualquier circuito resistivo lineal de dos terminales a una forma equivalente compuesta por una fuente de corriente equivalente en paralelo con una resistencia equivalente.
+
 
 ### 6. BIBLIOGRAFÍA
 - Floyd Thomas L.P.2007.Cantidades y unidades, Principios de circuitos eléctricos (8va ed.pp.118-225,). PEARSON EDUCACION.
