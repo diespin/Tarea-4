@@ -1,20 +1,27 @@
 # INFORME DE TAREA 4
 ### 1.OBJETIVOS
 ### 1.1 Objetivo general
-#### Estudiar y analizar los circuitos en serie - paralelo.
+#### Estudiar y analizar los circuitos en serie - paralelo y las teorias de circuitos y conversiones.
 ### 1.2 Objetivos especificos
-#### Identificar las relaciones serie-paralelo
-#### Analizar circuitos en serie-paralelo
-#### Analizar divisores de voltaje con carga
-#### Determinar el efecto de carga de un voltímetro en
-un circuito
-### Analizar redes en escalera
-#### Analizar y aplicar un puente de Wheatstone
-#### Localizar fallas en circuitos en serie-paralelo
+#### Identificar las relaciones serie-paralelo.
+#### Analizar circuitos en serie-paralelo.
+#### Analizar divisores de voltaje con carga.
+#### Determinar el efecto de carga de un voltímetro en un circuito.
+### Analizar redes en escalera.
+#### Analizar y aplicar un puente de Wheatstone.
+#### Localizar fallas en circuitos en serie-paralelo.
+#### Describir las características de una fuente de voltaje de cd.
+#### Describir las características de una fuente de corriente.
+#### Realizar conversiones de fuente.
+#### Aplicar el teorema de superposición al análisis de circuitos.
+#### Aplicar el teorema de Thevenin para simplificar un circuito para su análisis.
+#### Aplicar el teorema de Norton para simplificar un circuito.
+#### Aplicar el teorema de transferencia de potencia máxima.
+#### Realizar conversiones Δ a Y y Y a Δ.
 ### 2. MARCO TEÓRICO
 ### 3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
 ### UNIDAD 7
-### AUTOEVALUACION
+#### AUTOEVALUACION
 #### 1. ¿Cuáles de los siguientes enunciados son verdaderos en relación con la figura 7-61?
 #### (a) R1 y R2 están en serie con R3, R4 y R5.
 #### (b) R1 y R2 están en serie.
@@ -192,8 +199,118 @@ en cada toma (V1, V2 y V3) para cada posición del interruptor.
 #### 53. Revise las lecturas de los medidores de la figura 7-88 y localice cualquier falla que pudiera existir.
 #### 54. Si en la figura 7-89 R2 se abre, ¿qué voltajes se leerán en los puntos A, B y C?
 ### UNIDAD 8
-### AUTOEVALUACION 
+#### AUTOEVALUACION 
+#### 1. Se conecta una carga de 100 Æ entre las terminales de una fuente de voltaje ideal con VS 5 10 V. El voltaje entre los extremos de la carga es de
+#### (a) 0 V (b) 10 V (c) 100 V
+#### 2. Se conecta una carga de 100 Æ entre las terminales de una fuente de voltaje con VS 5 10 V y RS 5 10 Æ. El voltaje entre los extremos de la carga es de
+#### (a) 10 V (b) 0 V (c) 9.09 V (d) 0.909 V
+#### 3. Cierta fuente de voltaje tiene los valores VS 5 25 V y RS 5 5 Æ. Los valores para una fuente de corriente equivalente son de
+#### (a) 5 A, (b) 25 A, (c) 5 A,
+#### 4. Cierta fuente de corriente tiene los valores IS 5 3 mA y RS 5 1.0 MÆ. Los valores para una fuente de voltaje equivalente son de
+#### (a) 3 V, (b) 3 V, (c) 1 V,
+#### 5. En un circuito de dos fuentes, una fuente que actúa sola produce 10 mA a través de una rama dada. La otra fuente que actúa sola produce 8 mA en la dirección opuesta a través de la misma rama. La corriente real a través de la rama es de
+#### (a) 10 mA (b) 18 mA (c) 8 mA (d) 2 mA
+#### 6. El teorema de Thevenin convierte un circuito en una forma equivalente compuesta de
+#### (a) una fuente de corriente y una resistencia en serie
+#### (b) una fuente de voltaje y una resistencia en paralelo
+#### (c) una fuente de voltaje y una resistencia en serie
+#### (d) una fuente de corriente y una resistencia en paralelo
+#### 7. El voltaje equivalente de Thevenin en un circuito dado se determina
+#### (a) poniendo en cortocircuito las terminales de salida
+#### (b) abriendo las terminales de salida
+#### (c) poniendo en cortocircuito la fuente de voltaje
+#### (d) eliminando la fuente de voltaje y reemplazándola con un cortocircuito
+#### 8. Cierto circuito produce 15 V entre sus terminales de salida abiertas, y cuando se conecta una carga de 10 kÆ entre sus terminales de salida, produce 12 V. El equivalente de Thevenin para este circuito es de
+#### (a) 15 V en serie con (b) 12 V en serie con
+#### (c) 12 V en serie con 2.5 kÆ (d) 15 V en serie con 2.5 kÆ
+#### 9. Una fuente transfiere potencia máxima a una carga cuando
+#### (a) la resistencia de la carga es muy grande
+#### (b) la resistencia de la carga es muy pequeña
+#### (c) la resistencia de la carga es dos veces la resistencia de la fuente
+#### (d) la resistencia de la carga es igual a la resistencia de la fuente
+#### 10. Para el circuito descrito en la pregunta 8, se transfiere potencia máxima a una
+#### (a) carga de 10 kÆ (b) carga de 2.5 kÆ (c) carga de resistencia infinitamente grande
+#### EXAMEN RAPIDO DE DINAMICA DE CIRCUITOS
+#### Consulte la figura 8-69.
+#### 1. Si se desarrolla un cortocircuito entre los extremos de R4, el voltaje entre los extremos de R5
+#### (a) aumenta (b) disminuye (c) no cambia
+#### 2. Si la fuente de 2 V se abre, el voltaje entre los extremos de R1
+#### (a) aumenta (b) disminuye (c) no cambia
+#### 3. Si R2 se abre, la corriente a través de R1
+#### (a) aumenta (b) disminuye (c) no cambia
+#### Consulte la figura 8-77.
+#### 4. Si RL se abre, el voltaje en la terminal de salida con respecto a tierra
+#### (a) aumenta (b) disminuye (c) no cambia
+#### 5. Si cualquiera de los resistores de 5.6 kÆ se pone en cortocircuito, la corriente a través del resistor de carga
+#### (a) aumenta (b) disminuye (c) no cambia
+#### 6. Si cualquiera de los resistores de 5.6 kÆ se pone en cortocircuito, la corriente producida por la fuente
+#### (a) aumenta (b) disminuye (c) no cambia
+#### Consulte la figura 8-79.
+#### 7. Si la entrada al amplificador se pone en cortocircuito con tierra, la corriente extraída de ambas fuentes de voltaje
+#### (a) aumenta (b) disminuye (c) no cambia
+#### Consulte la figura 8-82.
+#### 8. Si R1 es en realidad de 1.0 kÆ en lugar de 10 kÆ, el voltaje esperado entre A y B
+#### (a) se incrementa (b) disminuye (c) no cambia
+#### 9. Si se conecta un resistor de carga de 10 MÆ desde A hasta B, el voltaje entre A y B
+#### (a) aumenta (b) disminuye (c) no cambia
+#### 10. Si se desarrolla un cortocircuito entre los extremos de R4, la magnitud del voltaje entre A y B
+#### (a) aumenta (b) disminuye (c) no cambia
+#### Consulte la figura 8-84.
+#### 11. Si el resistor de 220 Æ se abre, VAB
+#### (a) aumenta (b) disminuye (c) no cambia
+#### 12. Si se desarrolla un cortocircuito entre los extremos de un resistor de 330 Æ, VAB
+#### (a) aumenta (b) disminuye (c) no cambia
+#### Consulte la figura 8-85(d).
+#### 13. Si el resistor de 680 Æ se abre, la corriente a través de RL
+#### (a) aumenta (b) disminuye (c) no cambia
+#### 14. Si el resistor de 47 Æ se pone en cortocircuito, el voltaje entre los extremos de RL
+#### (a) aumenta (b) disminuye (c) no cambia
+#### PROBLEMAS
+#### SECCIÓN 8–3 Conversiones de fuente
+#### 1. Una fuente de voltaje tiene los valores VS 5 300 V y RS 5 50 Æ. Conviértala en una fuente de corriente equivalente.
+#### 2. Convierta las fuentes de voltaje prácticas de la figura 8-67 en fuentes de corriente equivalentes.
+#### 3. Una batería tipo D nueva tiene entre sus terminales un voltaje de 1.6 V y puede suministrar hasta 8.0 A a un cortocircuito durante muy poco tiempo. ¿Cuál es la resistencia interna de la batería?
+#### 4. Trace los circuitos equivalentes de fuentes de voltaje y corriente para la batería tipo D del problema 3.
+#### 5. Una fuente de corriente tiene una IS de 600 mA y una RS de 1.2 kÆ. Conviértala en una fuente de voltaje equivalente.
+#### 6. Convierta las fuentes de corriente prácticas de la figura 8-68 en fuentes de voltaje equivalentes.
+#### SECCIÓN 8–4 El teorema de superposición
+#### 7. Con el método de superposición, encuentre la corriente a través de R5 en la figura 8-69.
+#### 8. Use el teorema de superposición para determinar la corriente a través, y el voltaje entre, los extremos de la rama R2 de la figura 8-69.
+#### 9. Con el teorema de superposición, determine la corriente a través de R3 en la figura 8-70.
+#### 10. Con el teorema de superposición, determine la corriente de carga en cada uno de los circuitos mostrados en la figura 8-71.
+#### 11. En la figura 8-72 se muestra un circuito comparador. El voltaje de entrada, VENTRADA, se compara con el voltaje de referencia, VREFERENCIA, y se genera una salida negativa si VREFERENCIA > VENTRADA; de lo contrario es positiva. El comparador no carga a una u otra entrada. Si R2 es de 1.0 kÆ, ¿cuál es el intervalo del voltaje de referencia?
+#### 12. Repita el problema 11 si R2 es de 10 kÆ.
+#### 13. Determine el voltaje del punto A al punto B en la figura 8-73.
+#### 14. Los interruptores mostrados en la figura 8-74 se cierran en secuencia, SW1 primero. Determine la corriente a través de R4 después del cierre de cada interruptor.
+#### 15. La figura 8-75 muestra dos redes en escalera. Determine la corriente producida por cada una de las baterías cuando se conectan las terminales A (A a A) y las terminales B (B a B).
+#### SECCIÓN 8–5 Teorema de Thevenin
+#### 16. Para cada uno de los circuitos de la figura 8-76, determine el equivalente de Thevenin como se ve desde las terminales A y B.
+#### 17. Con el teorema de Thevenin, determine la corriente a través de la carga RL en la figura 8-77.
+#### 18. Con el teorema de Thevenin, determine el voltaje entre los extremos de R4 en la figura 8-78.
+#### 19. Determine el equivalente de Thevenin para el circuito externo al amplificador de la figura 8-79.
+#### 20. Determine la corriente que se dirige al punto A cuando R8 es de 1.0 kÆ, 5 kÆ, y 10 kÆ en la figura 8-80.
+#### 21. Determine la corriente a través del resistor de carga en el circuito puente de la figura 8-81.
+#### 22. Determine el equivalente de Thevenin del circuito mostrado en la figura 8-82 visto desde las terminales A y B.
+#### SECCIÓN 8–6 Teorema de Norton
+#### 23. Para cada uno de los circuitos mostrados en la figura 8-76, determine el equivalente Norton visto por RL.
+#### 24. Con el teorema de Norton, determine la corriente que circula a través del resistor de carga RL en la figura 8-77.
+#### 25. Con el teorema de Norton, determine el voltaje entre los extremos de R5 en la figura 8-78.
+#### 26. Con el teorema de Norton, determine la corriente que circula a través de R1 en la figura 8-80 cuando R8 5 8 kÆ.
+#### 27. Determine el circuito equivalente Norton para el puente que aparece en la figura 8-81 sin RL.
+#### 28. En la figura 8-83, reduzca el circuito entre las terminales A y B a su equivalente Norton.
+#### 29. Aplique el teorema de Norton al circuito de la figura 8-84.
+#### SECCIÓN 8–7 Teorema de transferencia de potencia máxima
+#### 30. En cada circuito mostrado en la figura 8-85, se tiene que transferir potencia máxima a la carga RL. Determine el valor apropiado de RL en cada caso.
+#### 31. En el circuito de la figura 8-86, determine el valor de RL para transferencia de potencia máxima.
+#### 32. ¿Cuánta potencia se suministra a la carga cuando RL es un 10% más alta que su valor para transferencia de potencia máxima en el circuito de la figura 8-86?
+#### 33. ¿Cuáles son los valores de R4 y RTH cuando la potencia máxima se transfiere de la fuente thevenizada a la red en configuración de escalera de la figura 8-87?
+#### SECCIÓN 8–8 Conversiones delta a Y (D a Y) y Y a D
+#### 34. En la figura 8-88, convierta cada red delta en una red Y.
+#### 35. En la figura 8-89, convierta cada red Y en una red delta.
+#### 36. Determine todas las corrientes que circulan en el circuito de la figura 8-90.
 ### 4. VIDEO
+
 ### 5. CONCLUSIONES
+
 ### 6. BIBLIOGRAFÍA
 - Floyd Thomas L.P.2007.Cantidades y unidades, Principios de circuitos eléctricos (8va ed.pp.118-225,). PEARSON EDUCACION.
