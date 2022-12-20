@@ -28,14 +28,15 @@
 #### 1. ¿Cuáles de los siguientes enunciados son verdaderos en relación con la figura 7-61?
 #### (e) respuestas (b) y (d)
 #### Explicacion: R1 y R2 están en serie. La combinación en serie de R1 y R2 está en paralelo con la combinación en serie de R3, R4 y R5.
+[![circuios-7-1.png](https://i.postimg.cc/ry18NPK0/circuios-7-1.png)](https://postimg.cc/14zh9M0s)
 #### 3. Si todos los resistores mostrados en la figura 7-61 tienen el mismo valor, cuando se aplica voltaje entre las terminales A y B la corriente es
 #### (c) máxima en R1 y R2
-#### 5. La combinación en paralelo de un resistor de 330 Æ y otro de 470 Æ está en serie con la combinación en paralelo de cuatro resistores de 1.0 kÆ. Se conecta una fuente de 100 V entre las terminales del circuito. El resistor con más corriente tiene un valor de
-#### (b)
-#### 7. En el circuito de la pregunta 5, el porcentaje de la corriente total que pasa por cualquier resistor de 1.0kÆ es
+#### 5. La combinación en paralelo de un resistor de 330 Ω y otro de 470 Ω está en serie con la combinación en paralelo de cuatro resistores de 1.0 kΩ. Se conecta una fuente de 100 V entre las terminales del circuito. El resistor con más corriente tiene un valor de
+#### (b) 330Ω
+#### 7. En el circuito de la pregunta 5, el porcentaje de la corriente total que pasa por cualquier resistor de 1.0kΩ es
 #### (b) 25% 
-#### 9. Cierto divisor de voltaje se compone de dos resistores de 10 kÆ en serie. ¿Cuál de los siguientes resistores de carga tendrá el máximo efecto en el voltaje de salida?
-#### (d)
+#### 9. Cierto divisor de voltaje se compone de dos resistores de 10 kΩ en serie. ¿Cuál de los siguientes resistores de carga tendrá el máximo efecto en el voltaje de salida?
+#### (d) 10kΩ
 #### 11. En un circuito en escalera, la simplificación deberá comenzar en
 #### (b) el resistor más alejado de la fuente
 #### 13. El voltaje de salida de un puente Wheatstone equilibrado es
@@ -72,11 +73,14 @@
 #### SECCIÓN 7–1 Identificación de relaciones en serie-paralelo
 #### 1. Visualice y trace las siguientes combinaciones en serie-paralelo:
 #### (a) R1 en serie con la combinación en paralelo de R2 y R3
+[![circuito-7-3.png](https://i.postimg.cc/Wpkrv9Z8/circuito-7-3.png)](https://postimg.cc/nMnMKG09)
 #### (b) R1 en paralelo con la combinación en serie de R2 y R3
+
 #### (c) R1 en paralelo con una rama que contiene R2 en serie con una combinación en paralelo de otros cuatro resistores
 #### 3. En cada circuito de la figura 7-62, identifique las relaciones en serie-paralelo de los resistores vistas desde la fuente.
 #### 5. Trace el diagrama esquemático de la configuración de la tarjeta de circuito impreso mostrada en la figura 7-64 indicando valores de resistor, e identifique las relaciones en serie-paralelo.
 #### 7. Configure una tarjeta de circuito impreso para el circuito de la figura 7-63(c). La batería tiene que conectarse externa a la tarjeta.
+[![circuitos-7-2.png](https://i.postimg.cc/ZKdNJ9zN/circuitos-7-2.png)](https://postimg.cc/yk7xP8d6)
 #### SECCIÓN 7–2 Análisis de circuitos resistivos en serie-paralelo
 #### 9. Para cada uno de los circuitos mostrados en la figura 7-62, determine la resistencia total presentada a la fuente.
 #### 11. Determine la corriente a través de cada resistor del circuito de la figura 7-62; calcule en seguida cada caída de voltaje.
