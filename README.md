@@ -19,6 +19,9 @@
 - Aplicar el teorema de transferencia de potencia máxima.
 - Realizar conversiones Δ a Y y Y a Δ.
 ### 2. MARCO TEÓRICO
+[![circuitos-7.png](https://i.postimg.cc/nrf5CQMP/circuitos-7.png)](https://postimg.cc/dknnf322)
+
+[![circuitos-8.png](https://i.postimg.cc/8CHsyhgh/circuitos-8.png)](https://postimg.cc/WDd2zq33)
 ### 3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
 ### UNIDAD 7
 #### AUTOEVALUACION
