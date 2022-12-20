@@ -75,23 +75,64 @@
 #### (a) R1 en serie con la combinación en paralelo de R2 y R3
 [![circuito-7-3.png](https://i.postimg.cc/Wpkrv9Z8/circuito-7-3.png)](https://postimg.cc/nMnMKG09)
 #### (b) R1 en paralelo con la combinación en serie de R2 y R3
-
+[![circuitos-7-3.png](https://i.postimg.cc/15fp0HXF/circuitos-7-3.png)](https://postimg.cc/PPnpT1mf)
 #### (c) R1 en paralelo con una rama que contiene R2 en serie con una combinación en paralelo de otros cuatro resistores
+[![Screenshot-20221220-042039.png](https://i.postimg.cc/kXvBbRFS/Screenshot-20221220-042039.png)](https://postimg.cc/hfhDFjY4)
 #### 3. En cada circuito de la figura 7-62, identifique las relaciones en serie-paralelo de los resistores vistas desde la fuente.
+[![Screenshot-20221220-042235.png](https://i.postimg.cc/Sx5q2m58/Screenshot-20221220-042235.png)](https://postimg.cc/w1hnnY9T)
+#### a) La resistencia R1 y R4 se encuentra en serie con las resistencias en paralelo R2 y R3.
+#### b) La resistencia R1 se encuentra en serie con las resistencias en paralelo R2, R3 y R4.
+#### c) La resistencia R1 se encuentra en serie con las dos resistencias en paralelo R2 y R3 y a su ves estas se encuentran en paralelo con R4 y R5.
 #### 5. Trace el diagrama esquemático de la configuración de la tarjeta de circuito impreso mostrada en la figura 7-64 indicando valores de resistor, e identifique las relaciones en serie-paralelo.
+[![Screenshot-20221220-043705.png](https://i.postimg.cc/Fz35LSMJ/Screenshot-20221220-043705.png)](https://postimg.cc/vxYNR4HQ)
 #### 7. Configure una tarjeta de circuito impreso para el circuito de la figura 7-63(c). La batería tiene que conectarse externa a la tarjeta.
 [![circuitos-7-2.png](https://i.postimg.cc/ZKdNJ9zN/circuitos-7-2.png)](https://postimg.cc/yk7xP8d6)
 #### SECCIÓN 7–2 Análisis de circuitos resistivos en serie-paralelo
 #### 9. Para cada uno de los circuitos mostrados en la figura 7-62, determine la resistencia total presentada a la fuente.
+#### a) R2-3=1/(1/100+1/100)=50Ω
+####    Rt=R1+R2-3+R4
+####    Rt=56+50+27
+####    Rt=133Ω
+#### b) R2,3,4=1/(1/680+1/330+1/180)
+####    R2,3,4=99.44Ω
+####    Rt=779.44Ω
+#### c) R2,3=6.2+3.3=9.5kΩ
+####    R2,3+R4+R5=25.1
+####    Rt=26.1kΩ
 #### 11. Determine la corriente a través de cada resistor del circuito de la figura 7-62; calcule en seguida cada caída de voltaje.
+
 #### 13. Encuentre RT para todas las combinaciones de los interruptores de la figura 7-66.
+#### Cuando SW1 esta abierto y SW2 cerrado
+#### Rt=100Ω+(1/(1/220Ω+1/2.2kΩ)) 
+#### Rt=300Ω
+#### Cuando SW1 esta cerrado y SW2 abierto
+#### Rt=100Ω+220Ω
+#### Rt=320Ω
 #### 15. Determine el voltaje en cada nodo con respecto a tierra en la figura 7-67.
+[![Screenshot-20221220-050150.png](https://i.postimg.cc/1zrk065k/Screenshot-20221220-050150.png)](https://postimg.cc/R3qp4Wtd)
+#### VA=100V
+#### VB=61.55V
+#### VC=15.73V
+#### VD=7.87V
 #### 17. En la figura 7-68, ¿cómo determinaría el voltaje entre los extremos de R2 por medición sin conectar directamente un medidor entre los extremos del resistor?
+#### Conectariamos la punta positiva a la resistencia y la punta negativa del multimetro a la tierra.
 #### 19. Determine la resistencia del circuito mostrado en la figura 7-68 como se ve desde la fuente de voltaje.
+#### R1,2,3=716kΩ
+#### R5,6=1100kΩ
+#### Rt=302.50kΩ
+#### Explicaccion: Para determinar la resistencia total primero reducimos las resistencias y despues las operamos de acuerdo si su predisposicion es serie o paralelo.
 #### 21. (a) Determine el valor de R2 en la figura 7-70. (b) Encuentre la potencia en R2
+[![Screenshot-20221220-053337.png](https://i.postimg.cc/BQK3Rjnz/Screenshot-20221220-053337.png)](https://postimg.cc/Xp4tC7FK)
+#### V=RxI
+#### 220=(47R2/R2+47)/(R2+47)x1
+#### R2=38.73Ω
 #### 23. Encuentre la resistencia entre cada uno de los siguientes juegos de nodos mostrados en la figura 7-72: AB, BC y CD.
+
 #### SECCIÓN 7–3 Divisores de voltaje con cargas resistivas
-#### 25. Un divisor de voltaje está compuesto por dos resistores de 56 kÆ y una fuente de 15 V. Calcule el voltaje de salida sin carga. ¿Cuál será el voltaje de salida si se conecta un resistor con carga de 1.0 MÆ a la salida?
+#### 25. Un divisor de voltaje está compuesto por dos resistores de 56 kΩ y una fuente de 15 V. Calcule el voltaje de salida sin carga. ¿Cuál será el voltaje de salida si se conecta un resistor con carga de 1.0 MΩ a la salida?
+#### Vx=(Rx/Rt)Vs
+#### V1=(56kΩ/112kΩ)15V=7.5V
+#### V2=(1000kΩ/1112kΩ)15V=13.49V
 #### 27. ¿Cuál de dos cargas, una de 10 kÆ y otra de 47 kÆ, provocará una disminución más pequeña en el voltaje de salida de un divisor de voltaje dado?
 #### 29. En la figura 7-74, determine el voltaje de salida con una carga de 33 kÆ conectada entre A y B.
 #### 31. Determine los valores de resistencia para un divisor de voltaje que debe satisfacer las siguientes especificaciones: la corriente extraída de la fuente sin carga no debe exceder de 5 mA; el voltaje de fuente tiene que ser de 10 V, y las salidas requeridas deben ser de 5 y 2.5 V. Trace el circuito. Determine el efecto en los voltajes de salida si se conecta una carga de 1.0 kÆ a cada toma, una a la vez.
