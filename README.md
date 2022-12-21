@@ -133,9 +133,14 @@
 #### Vx=(Rx/Rt)Vs
 #### V1=(56kΩ/112kΩ)15V=7.5V
 #### V2=(1000kΩ/1112kΩ)15V=13.49V
-#### 27. ¿Cuál de dos cargas, una de 10 kÆ y otra de 47 kÆ, provocará una disminución más pequeña en el voltaje de salida de un divisor de voltaje dado?
-#### 29. En la figura 7-74, determine el voltaje de salida con una carga de 33 kÆ conectada entre A y B.
-#### 31. Determine los valores de resistencia para un divisor de voltaje que debe satisfacer las siguientes especificaciones: la corriente extraída de la fuente sin carga no debe exceder de 5 mA; el voltaje de fuente tiene que ser de 10 V, y las salidas requeridas deben ser de 5 y 2.5 V. Trace el circuito. Determine el efecto en los voltajes de salida si se conecta una carga de 1.0 kÆ a cada toma, una a la vez.
+#### 27. ¿Cuál de dos cargas, una de 10 kΩ y otra de 47 kΩ, provocará una disminución más pequeña en el voltaje de salida de un divisor de voltaje dado?
+#### La resistencia de 47kΩ ya que al aplicar la formula, tenemos:
+#### Va=(Ra/Rt)Vs=(47/57)15=12.37V
+#### Vb=(Rb/Rt)Vs=(10/47)15=2.12V
+#### 29. En la figura 7-74, determine el voltaje de salida con una carga de 33 kΩ conectada entre A y B.
+#### Va=(Ra/Rt)Vs=(33/41.9)22=17.33V
+#### 31. Determine los valores de resistencia para un divisor de voltaje que debe satisfacer las siguientes especificaciones: la corriente extraída de la fuente sin carga no debe exceder de 5 mA; el voltaje de fuente tiene que ser de 10 V, y las salidas requeridas deben ser de 5 y 2.5 V. Trace el circuito. Determine el efecto en los voltajes de salida si se conecta una carga de 1.0 kΩ a cada toma, una a la vez.
+
 #### 33. La figura 7-76 muestra un circuito polarizador de cd para un amplificador de transistor de efecto de campo. La polarización es un método común empleado para establecer ciertos niveles de voltaje de cd para la operación apropiada de un amplificador. Aunque no se espera que usted conozca los amplificadores con transistores en este momento, los voltajes y las corrientes de cd presentes en el circuito pueden ser determinados con métodos ya conocidos.
 #### (a) Encuentre VG y VS (b) Determine I1, I2, ID, e IS (c) Encuentre VDS y VDG
 #### SECCIÓN 7–4 Efecto de carga de un voltímetro
