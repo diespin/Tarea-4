@@ -202,7 +202,13 @@
 #### 47. Una celda de carga tiene cuatro medidores de deformación idénticos con una resistencia ilimitada de 120,000 Ω  para cada medidor (un valor estándar). Cuando se agrega una carga, los medidores a tensión incrementan su resistencia en 60 mΩ , a 120,060 Ω , y los medidores a compresión disminuyen su resistencia en 60 mΩ , a 119.940 Ω , como se muestra en la figura 7-82. ¿Cuál es el voltaje de salida con carga?
 #### SECCIÓN 7–7 Localización de fallas
 #### 49. ¿Es correcta la lectura del voltímetro de la figura 7-84?
+[![Screenshot-20221221-113631.png](https://i.postimg.cc/0Q6596kc/Screenshot-20221221-113631.png)](https://postimg.cc/7GkrVZT2)
+#### R3,4=(1/(1/680+1/4700))=594.05Ω
+#### VA=(594.05Ω/(560Ω+470Ω))12
+#### VA=6.92
+#### La lectura es correcta
 #### 51. En la figura 7-86 hay una falla. Con base en las indicaciones del medidor, determine cuál es la falla.
+
 #### 53. Revise las lecturas de los medidores de la figura 7-88 y localice cualquier falla que pudiera existir.
 ### UNIDAD 8
 #### AUTOEVALUACION 
