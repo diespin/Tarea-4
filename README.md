@@ -167,9 +167,9 @@
 #### (a) Encuentre VG y VS 
 #### VG=3.6V,VS=5.1V
 #### (b) Determine I1, I2, ID, e IS 
-#### 
+#### I1=6.48μ, I2=2.55mA, Id=2.55mA, Is=167.08nA
 #### (c) Encuentre VDS y VDG
-
+#### VDS=3.83V, VDG=12V
 #### SECCIÓN 7–4 Efecto de carga de un voltímetro
 #### 35. ¿En cuál de los siguientes intervalos de voltaje presentará un voltímetro la mínima carga que haya en un circuito?
 #### (a) 1 V 
@@ -177,7 +177,7 @@
 #### (a) ¿Qué intervalo se deberá utilizar?
 #### R4=27Ω, Interrvalo=1V
 #### (b) ¿En cuánto se reduce el voltaje medido por el medidor con respecto al voltaje real?
-#### 
+#### Cuando la resistencia del multimetro no es minimo.
 #### SECCIÓN 7–5 Redes en escalera
 #### 39. Para el circuito mostrado en la figura 7-77, calcule:
 #### (a) La resistencia total entre las terminales de la fuente 
@@ -191,15 +191,25 @@
 [![Screenshot-20221221-053719.png](https://i.postimg.cc/KYT08ZNQ/Screenshot-20221221-053719.png)](https://postimg.cc/DW2rC3Rb)
 #### 41. Determine la resistencia total entre las terminales A y B de la red en escalera de la figura 7-79. Asimismo, calcule la corriente en cada rama con 10 V entre A y B.
 #### Rt=620.82Ω 
-#### 
-#### 43. Determine IT y VSALIDA en la figura 7-80.
-#### 
+#### Rama A= Ia=9.80x10^-3
+#### Rama B= Ib=5.73x10^-3
+#### Rama C= Ic=4.73x10^-3
+#### 43.Determine It y Vsalida
+#### It=0.1A
+#### Vsalida=9.2V
 #### 45. Repita el problema 44 para las siguientes condiciones
 #### (a) SW3 y SW4 conectados a 112 V, SW1 y SW2 a tierra
+#### Vsalida=0.91V
 #### (b) SW3 y SW1 conectados a 112 V, SW2 y SW4 a tierra
+#### Vsalida=0.91V
 #### (c) Todos los interruptores conectados a 112 V
+#### Vsalida=0,08V
 #### SECCIÓN 7–6 El puente Wheatstone
 #### 47. Una celda de carga tiene cuatro medidores de deformación idénticos con una resistencia ilimitada de 120,000 Ω  para cada medidor (un valor estándar). Cuando se agrega una carga, los medidores a tensión incrementan su resistencia en 60 mΩ , a 120,060 Ω , y los medidores a compresión disminuyen su resistencia en 60 mΩ , a 119.940 Ω , como se muestra en la figura 7-82. ¿Cuál es el voltaje de salida con carga?
+[![Screenshot-20221221-060305.png](https://i.postimg.cc/8cFHjLk0/Screenshot-20221221-060305.png)](https://postimg.cc/p5H8ShFf)
+#### Vsalida=ΔR(Vs/4R)
+#### Vsalida=60mΩ(12/4(120000))
+#### Vsalida=1.5x10^-6
 #### SECCIÓN 7–7 Localización de fallas
 #### 49. ¿Es correcta la lectura del voltímetro de la figura 7-84?
 [![Screenshot-20221221-113631.png](https://i.postimg.cc/0Q6596kc/Screenshot-20221221-113631.png)](https://postimg.cc/7GkrVZT2)
@@ -208,8 +218,15 @@
 #### VA=6.92
 #### La lectura es correcta
 #### 51. En la figura 7-86 hay una falla. Con base en las indicaciones del medidor, determine cuál es la falla.
-
+#### El multimetro conectado a la resistencia R2, tiene el valor correcto ya que:
+#### VA=(1kΩ/(1kΩ+1k))5=2.5V
+#### El multimetro conectado a la resistencia R4 y R5, tiene el valor correcto ya que:
+#### VB=(3.9kΩ/(3.9kΩ+8.2k))5=0,06V
 #### 53. Revise las lecturas de los medidores de la figura 7-88 y localice cualquier falla que pudiera existir.
+[![Screenshot-20221221-052738.png](https://i.postimg.cc/ry45bVbc/Screenshot-20221221-052738.png)](https://postimg.cc/F19fk4Nn)
+#### Rt=2.62kΩ
+#### VA=(2.2/(4.2))10=5.24V, no existe falla en el primer multimetro.
+#### VB=(3.3/(6.5))10=5.07V, existe una falla debido al multimetro.
 ### UNIDAD 8
 #### AUTOEVALUACION 
 #### 1. Se conecta una carga de 100 Æ entre las terminales de una fuente de voltaje ideal con VS 5 10 V. El voltaje entre los extremos de la carga es de
