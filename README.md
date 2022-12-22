@@ -321,7 +321,7 @@
 #### c) RC=(R1R2+R1R3+R2R3)/R3=48.67Ω
 
 ### 4. VIDEO
-
+https://youtu.be/LKFXFCcYibw
 ### 5. CONCLUSIONES
 - Estudiamos que un circuito en serie-paralelo es una combinación de trayectorias tanto en serie como en paralelo.
 - Determinamos las corrientes y las caidas de voltaje de rama aplicando la fórmula del divisor de corriente, la ley de la corriente de Kirchhoff o ley de Ohm. 
