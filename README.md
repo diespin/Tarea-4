@@ -251,15 +251,6 @@
 #### 13. Si el resistor de 680 Æ se abre, la corriente a través de RL
 #### (a) aumenta 
 #### PROBLEMAS
-#### SECCIÓN 8–3 Conversiones de fuente
-#### 1. Una fuente de voltaje tiene los valores VS 5 300 V y RS 5 50 Ω . Conviértala en una fuente de corriente equivalente.
-#### Is=Vs/Rs
-#### Is=5300/550=9.64A
-#### 3. Una batería tipo D nueva tiene entre sus terminales un voltaje de 1.6 V y puede suministrar hasta 8.0 A a un cortocircuito durante muy poco tiempo. ¿Cuál es la resistencia interna de la batería?
-#### R=1.6V/8.0A=0.2Ω 
-#### 5. Una fuente de corriente tiene una IS de 600 mA y una RS de 1.2 kΩ . Conviértala en una fuente de voltaje equivalente.
-#### Vs=Is/Rs
-#### Vs=600mA/1.2kΩ=500V
 1
 
 ![image](https://user-images.githubusercontent.com/93899720/146825046-eea3ed40-5381-40d7-8e91-d44145743553.png)
